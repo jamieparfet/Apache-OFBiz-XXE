@@ -49,4 +49,4 @@ $ cd apache-ofbiz-16.11.04/
 $ ./gradlew cleanAll loadDefault
 $ ./gradlew ofbiz
 ```
-Browse to https://<ip:8443/ordermgr/control/main to make sure the installation was successful
+Browse to https://<ip>:8443/ordermgr/control/main to make sure the installation was successful
